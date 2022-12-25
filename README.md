@@ -1,6 +1,6 @@
 # LiDAR Notebooks
 
-Collection of tutorials that I wrote to open source the knowledge of processing LiDAR data using Python. 
+Collection of tutorials that I wrote to open source the knowledge of processing LiDAR data using Python. The notebooks run on Google Colab, online free IDE with powerful computing resource by Google. 
 
 Contents (and planned):
 
